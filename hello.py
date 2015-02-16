@@ -1,3 +1,7 @@
 __author__ = 'lli5ba'
 
-print( "Hello world!")
+def greeting(msg):
+    print(msg);
+
+if __name__ == "main":
+    print("hello")
